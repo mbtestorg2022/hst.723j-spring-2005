@@ -83,12 +83,57 @@ Assignments and Grading
 
 The assignments in this class consist of 4 written theme discussion reports, 3 written laboratory reports, approximately 3 oral paper presentations, and reading of 25-30 papers. In addition, there will be a final examination. Your overall grade will be based approximately on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Exam | 30% |
-| Written Theme Discussion Reports | 30% |
-| Laboratory Reports | 25% |
-| Oral Paper Presentations and Class Participation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Theme Discussion Reports
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Reports
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Paper Presentations and Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Theme discussion reports are due one week after the last discussion session for the theme.
 
