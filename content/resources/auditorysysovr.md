@@ -14,6 +14,7 @@ description: 'This resource describes the following topics: The Auditory System,
   and Temporal Coding, Auditory Object and Stream Formation, and References.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/82e94fd8bb40f57f70adfb1edf9ddd65_auditorysysovr.pdf
 file_type: application/pdf
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: auditorysysovr.pdf
 uid: 82e94fd8-bb40-f57f-70ad-fb1edf9ddd65

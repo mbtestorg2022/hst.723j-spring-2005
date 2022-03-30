@@ -5,6 +5,7 @@ description: 'This resource covers the pointers from the following theme 3 paper
   Reyes et al. (1996), Brand et al. (2002), and Zhou et al. (2005).'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/495d23833598637d756ad80e95f1bbf1_theme_3_pointers.pdf
 file_type: application/pdf
+parent_uid: 1e1b9138-3434-632c-b3b1-5296944289e8
 resourcetype: Document
 title: theme_3_pointers.pdf
 uid: 495d2383-3598-637d-756a-d80e95f1bbf1

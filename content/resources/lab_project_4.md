@@ -7,6 +7,7 @@ description: The purpose of this laboratory exercise is to give you hands-on exp
   all points inside the cell are assumed to have the same electrical potential.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/841a47b8e98291f12cca18f5df89e937_lab_project_4.pdf
 file_type: application/pdf
+parent_uid: 40bf0679-2a0b-ef67-5b19-6e7ec8396ad7
 resourcetype: Document
 title: lab_project_4.pdf
 uid: 841a47b8-e982-91f1-2cca-18f5df89e937

@@ -8,6 +8,7 @@ description: The purpose of this laboratory exercise is to illustrate how sound 
   deals with how information is coded in networks of interconnected neurons.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/5e7b75fde1dc5156ce41d85337af83b0_lab_project_1.pdf
 file_type: application/pdf
+parent_uid: 40bf0679-2a0b-ef67-5b19-6e7ec8396ad7
 resourcetype: Document
 title: lab_project_1.pdf
 uid: 5e7b75fd-e1dc-5156-ce41-d85337af83b0

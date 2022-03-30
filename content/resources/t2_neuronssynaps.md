@@ -8,6 +8,7 @@ description: 'This resource majorly covers the following topics: A Well-studied 
   references for figures.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/ce313cf3d37d041021256ee39ab66c07_t2_neuronssynaps.pdf
 file_type: application/pdf
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t2_neuronssynaps.pdf
 uid: ce313cf3-d37d-0410-2125-6ee39ab66c07

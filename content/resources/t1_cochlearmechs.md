@@ -8,6 +8,7 @@ description: 'This resource majorly covers: Hearing Mechanics in brief, Cochlear
   Otoacoustic Emissions etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/d5d8496d3deef81407b634e2a2f9735c_t1_cochlearmechs.pdf
 file_type: application/pdf
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t1_cochlearmechs.pdf
 uid: d5d8496d-3dee-f814-07b6-34e2a2f9735c

@@ -9,6 +9,7 @@ description: 'This resource covers the following main topics: Point of View, Aud
   in Background Noise etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/2c67eb429aa68fb20bb7a17b63528b68_t1_anstimcoding.pdf
 file_type: application/pdf
+parent_uid: d171af81-5e24-550e-3d7d-cacea07f025f
 resourcetype: Document
 title: t1_anstimcoding.pdf
 uid: 2c67eb42-9aa6-8fb2-0bb7-a17b63528b68
